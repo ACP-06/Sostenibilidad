@@ -9,7 +9,7 @@ En mi opinión, si habrá un límite para la población humana, puesto que los r
 
 Está reflexión la asimilo a la Teoría de Charles Darwin, en la que se dice que solo el más fuerte es apto para la superviviencia. De igual manera, hoy en dia vivimos en un mundo, donde desde mi punto de vista, el pais que más recursos y más fuerza tiene, manda y explota a otros países que no tienen ese poder, o bien por fines de superioridad o bien por fines económicos. 
 
-Estos paises seguiran ganando dinero y aprovechando de otros paises, mientras que estos tengan recursos y les generen dinero, puesto que los recursos son finitos, y como ya he dicho antes, si hay un limite en los recursos de la tierra y por tanto también lo habrán en la población humana.
+Estos paises seguirán ganando dinero y aprovechando de otros paises, mientras que estos tengan recursos y les generen dinero, puesto que los recursos son finitos, y como ya he dicho antes, si hay un limite en los recursos de la tierra y por tanto también lo habrán en la población humana.
 
 ## Sesión 3.
 ### 3 de octubre de 2025.
