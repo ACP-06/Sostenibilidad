@@ -1,3 +1,10 @@
+## Sesión 5.
+### 17 de octubre de 2025
+Hoy hemos hablado de las relaciones entre especies, de si los demás animales reflexionan o no lo hacen. También hemos hablado de que debemos de adaptarnos con las diferentes especies con las que vivimos.
+
+¿Qué hacemos nosotros: cooperamos o competimos?
+Depende de lo que mejor me venga. A veces es mejor cooperar con otras personas para llegar al destino donde queremos llegar, y otras veces es mejor competir para "quitarnos rivales de en medio" y llegar antes a nuestro objetivo.
+
 ## Sesión 4.
 ### 10 de octubre de 2025
 Hoy, durante esta sesión hemos creado el archivo readme.md donde seguiremos actualizando nuestra bitácora y también hemos reflexionado sobre  la capacidad de carga, relevancia y los limites de la población, así como también, hemod visto ejemplos de sobreexplotación y de los límites.
