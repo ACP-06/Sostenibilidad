@@ -1,3 +1,9 @@
+## Sesión 6.
+### 24 de octubre de 2025
+¿Qué estrategia usamos los humanos?
+Usamos más la estrategia de la K, pues nos interesa una cierta estabilidad y no necesitamos adaptarnos tanto a los cambios del entorno como, a lo mejor, lo necesitan hacer las demás especies.
+Hoy en dia, no tenemos la necesidad de producir muchos descendientes, ya sea por los costes que esto conlleva o por las difíciles situaciones de emancipación que hay. Hoy en dia todo es más caro, suben más lo precios/impuestos y los salarios tienden a estar igual. Decidimos vivir nosotros bien y disfrutar antes que tener hijos, desde mi punto de vista.
+
 ## Sesión 5.
 ### 17 de octubre de 2025
 Hoy hemos hablado de las relaciones entre especies, de si los demás animales reflexionan o no lo hacen. También hemos hablado de que debemos de adaptarnos con las diferentes especies con las que vivimos.
