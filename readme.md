@@ -1,3 +1,10 @@
+## Sesión 7.
+### 31 de octubre de 2025
+Hoy hemos reflexionado sobre el agua que tenemos y de donde están los distintos depositos de nuestra ciudad. Así como: las opciones de conseguir agua que tenemos y como reducir el consumo.
+
+Y he añadido mi idea de sostenibilidad en el repositorio grupal: Desenchufar electrodomésticos cuando estos no se utilicen.
+
+
 ## Sesión 6.
 ### 24 de octubre de 2025
 ¿Qué estrategia usamos los humanos?
