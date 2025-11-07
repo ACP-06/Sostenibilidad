@@ -1,3 +1,7 @@
+## Sesión 8.
+### 7 de noviembre de 2025
+No ha venido el profesor.
+
 ## Sesión 7.
 ### 31 de octubre de 2025
 Hoy hemos reflexionado sobre el agua que tenemos y de donde están los distintos depositos de nuestra ciudad. Así como: las opciones de conseguir agua que tenemos y como reducir el consumo.
