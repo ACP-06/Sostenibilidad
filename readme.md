@@ -1,6 +1,6 @@
 ## Sesión 8.
 ### 7 de noviembre de 2025
-No ha venido el profesor.
+No ha venido el profesor. He continuado con el trabajo grupal.
 
 ## Sesión 7.
 ### 31 de octubre de 2025
