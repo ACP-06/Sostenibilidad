@@ -1,3 +1,25 @@
+## Sesión 9.
+### 14 de novimebre de 2025
+Nosotros fabricamos herramientas que nos permiten viver de una manera más comoda/mejor, todas estas herramientas que fabricamos tiene un proceso. También hemos hablado de las fases de producción de un producto y el peso oculto. Por ejemplo: para fabricar un producto sencillo/ligero, previamente se han utilizado elementos con mayor peso para llegar a producir ese elemento. 
+
+¿Cual es la contaminación de la distribución de un ordenador a las diferentes tiendas? Compara las diferentes formas de distribución con el tráfico de una gran ciudad. 
+La contaminación asociada a la distribución de un ordenador a distintas tiendas forma parte de su huella de carbono total y proviene principalmente del transporte y la logística. No existe un valor único universal, porque depende de muchos factores, pero sí se pueden explicar los elementos que componen esa contaminación.
+
+En este caso, voy a hablar de el transporte internacional de un ordenador hacia diferentes tiendas de diferentes paises.
+
+Contaminación avión de mercancias: alrededor de 500-600g de CO2 por tonelada-Km
+Contaminación barco de mercancias: alrededor de 10-40g de CO2 por tonelada-Km
+Contaminación tren de mercancias: alrededor de 20-60g de CO2 por tonelada-Km
+
+
+Contaminación de los coches en una gran ciudad: alrededor de 120-180g de CO2 por Km
+Supongamos que en una gran ciudad circulan 1 millón de coches al dia y que cada coche circula una media de 20km, obtendriamos una media de 3000 toneladas de CO2 al día.
+
+Conclusión: El transporte más contaminante por km es el avión, que supera claramente a la contaminación del tráfico de una gran ciudad. Y el tranporte menos contaminante por km es el barco, contaminando mucho menos que el tráfico de una gran ciudad.
+
+Con está conclusión, hago una pregunta abierta:¿Qué es más importante cambiar el sistema de transporte de una gran ciudad o cambiar el sistema de transporte de mercancias a nivel internacional?
+
+
 ## Sesión 8.
 ### 7 de noviembre de 2025
 No ha venido el profesor. He continuado con el trabajo grupal.
