@@ -19,6 +19,7 @@ Conclusión: El transporte más contaminante por km es el avión, que supera cla
 
 Con está conclusión, hago una pregunta abierta:¿Qué es más importante cambiar el sistema de transporte de una gran ciudad o cambiar el sistema de transporte de mercancias a nivel internacional?
 
+![alt text](image.png)
 
 ## Sesión 8.
 ### 7 de noviembre de 2025
