@@ -1,3 +1,7 @@
+## Sesión 10.
+### 21 de noviembre de 2025
+No ha venido el profesor.
+
 ## Sesión 9.
 ### 14 de novimebre de 2025
 Nosotros fabricamos herramientas que nos permiten viver de una manera más comoda/mejor, todas estas herramientas que fabricamos tiene un proceso. También hemos hablado de las fases de producción de un producto y el peso oculto. Por ejemplo: para fabricar un producto sencillo/ligero, previamente se han utilizado elementos con mayor peso para llegar a producir ese elemento. 
