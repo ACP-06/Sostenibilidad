@@ -1,3 +1,8 @@
+## Sesión 11.
+### 28 de noviembre de 2025
+En esta sesión hemos hablado de la economía cirular y de la economía lineal. En pocas palabras, la economía lineal es una economía que se toma un producto, lo elabora y posteriormente, cunado no tenga utilidad o se rompa, se desecha. Y la econimía circular, reutiliza ese material para utilizarlo de nuevo (pues puede tener un valor) en vez de desecharlo como hacen en la economía linear.
+¿Y a mí que me cuentas?
+Creo que la economía cicular puede ser util para mi, pues podría seguir comprando productos (estos no se acabarián porque seguirian en una continua reutilización y también algunos productos los podria comprar más baratos que de fabricación).
 ## Sesión 10.
 ### 21 de noviembre de 2025
 No ha venido el profesor.
