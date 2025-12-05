@@ -1,3 +1,11 @@
+## Sesión 12.
+### 5 de diciembre de 2025
+Hoy hemos estado hablando de la huella de carbono y la huella ecológica, lo que contaminamos y comparamos con otro animales, lo que más huella de carbono deja en la tierra (fabricas, transporte,...)
+
+Mi huella de carbono:
+Lo he hecho a conciencia de lo que consumo.
+![alt text](image-1.png)
+
 ## Sesión 11.
 ### 28 de noviembre de 2025
 En esta sesión hemos hablado de la economía cirular y de la economía lineal. En pocas palabras, la economía lineal es una economía que se toma un producto, lo elabora y posteriormente, cunado no tenga utilidad o se rompa, se desecha. Y la econimía circular, reutiliza ese material para utilizarlo de nuevo (pues puede tener un valor) en vez de desecharlo como hacen en la economía linear.
