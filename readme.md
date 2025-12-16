@@ -1,3 +1,33 @@
+## Sesión 13.
+### 12 de diciembre de 2025
+#### Resumen
+En esta sesión no pude estar presente, le he preguntado a un compañero y me ha comentado que estuvisteis hablando sobre el cambio climatico
+#### Ejemplos
+Ejemplos de lo que produce el cambio climático:
+- Aumento de las tempreaturas
+- Fenómenos metereológicos extremos (sequias, inundaciones, huracanes...)
+- Deshielo de glaciares y polos
+- Aumento del nivel del mar
+
+#### Reflexión personal
+Para mí, el cambio climático es una realidad, ya está aquí. No es algo que pertenezca al futuro. Yo, como tal, no tengo el control de revertir esto, pero si puedo cambiar mis decisiones para evitar que esto vaya a más. 
+![alt text](image-2.png)
+
+#### Preguntas de clase
+¿Cual es principal emisor de co2?
+El principal emisor de CO2 es la quema de combustible fósiles como: 
+- El carbón 
+- El petroléo
+- El gas natural
+
+¿Y que puedo hacer yo como programador para evitar el cambio climático?
+Lo que podría hacer como programador para evitar el cambio climático es lo siguiente:
+- Elegir bien donde y cómo se ejecuta el software.
+- Diseñando productos que no incentive al consumo de manera absurda o poco necesaria
+- Utilizar menos imagenes gigantes y optimizar para móviles antiguos.
+- Automatizar procesos que ahorran recursos.
+
+
 ## Sesión 12.
 ### 5 de diciembre de 2025
 Hoy hemos estado hablando de la huella de carbono y la huella ecológica, lo que contaminamos y comparamos con otro animales, lo que más huella de carbono deja en la tierra (fabricas, transporte,...)
