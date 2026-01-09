@@ -1,3 +1,28 @@
+## Sesión 15.
+### 9 de enero de 2026
+#### Resumen
+Hoy hemos estado hablando de la contaminación y los residuos, de que el concepto de desecho es diferente para cada persona y lo que para una persona es basura para otra puede llegar a ser necesario para continuar con su vida. También hemos comentado sobre la reutilización de productos, para minimizar los residuos que tiramos y así, darles una utilidad.
+#### Ejemplos
+Ejemplos de contaminación:
+- Lo que desechan las fábricas.
+- Emisiones centrales eléctricas.
+- Residuos electrónicos.
+- Desecho de ropa.
+#### Reflexión personal
+En mi opinión, creo que es una buena idea la reutilización de desechos para darle nutrientes a las plantas y así de esta manera sacamos un valor a esos desechos que ya no queriamos y además reducimos cierta contaminación. 
+Al final, a los que más nos perjudica esta contaminación es a los seres vivos.
+![alt text](image-3.png)
+#### Preguntas de clase
+¿Por qué cambiaste tu último móvil?
+Porque la batería se descargaba muy rápido y le costaba cargar al móvil, y era muy molesto estar pendiente de ver si el móvil estaba cargando cada ciertos minutos.
+
+## Sesión 14.
+### 19 de diciembre de 2025
+#### Resumen
+#### Ejemplos
+#### Reflexión personal
+#### Preguntas de clase
+
 ## Sesión 13.
 ### 12 de diciembre de 2025
 #### Resumen
